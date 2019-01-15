@@ -1,0 +1,4 @@
+﻿  우우.c
+c:\users\user\desktop\알고리즘\과제2\과제2\우우.c(108): warning C4013: 'QueryPerformanceFreqeuncy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+우우.obj : error LNK2019: _QueryPerformanceFreqeuncy 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\USER\Desktop\알고리즘\과제2\Debug\과제2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

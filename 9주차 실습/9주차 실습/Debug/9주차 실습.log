@@ -1,0 +1,6 @@
+﻿  주호3.c
+c:\users\user\desktop\알고리즘\9주차 실습\9주차 실습\주호3.c(24): warning C4033: 'insertItem'은(는) 값을 반환해야 합니다.
+c:\users\user\desktop\알고리즘\9주차 실습\9주차 실습\주호3.c(60): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\9주차 실습\9주차 실습\주호3.c(31): warning C4715: 'insertItem': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  9주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\9주차 실습\Debug\9주차 실습.exe
+  9주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\9주차 실습\Debug\9주차 실습.pdb (Partial PDB)

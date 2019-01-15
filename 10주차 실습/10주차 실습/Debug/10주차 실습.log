@@ -1,0 +1,12 @@
+﻿  1-1.c
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(53): warning C4101: 'graph' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(65): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(137): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(173): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(172): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(172): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(212): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(211): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\알고리즘\10주차 실습\10주차 실습\1-1.c(211): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  10주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\10주차 실습\Debug\10주차 실습.exe
+  10주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\10주차 실습\Debug\10주차 실습.pdb (Partial PDB)

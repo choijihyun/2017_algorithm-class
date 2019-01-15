@@ -1,0 +1,6 @@
+﻿  1.c
+c:\users\user\desktop\알고리즘\6주차 실습\6주차 실습\1.c(16): warning C4098: 'search': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\desktop\알고리즘\6주차 실습\6주차 실습\1.c(21): warning C4098: 'search': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\user\desktop\알고리즘\6주차 실습\6주차 실습\1.c(25): warning C4098: 'search': 'void' 함수에서 값을 반환하고 있습니다.
+  6주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\6주차 실습\Debug\6주차 실습.exe
+  6주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\6주차 실습\Debug\6주차 실습.pdb (Partial PDB)

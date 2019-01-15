@@ -1,0 +1,72 @@
+typedef struct _RANGE
+{
+	int left;
+	int right;
+}RANGE;
+
+...
+...
+...
+
+
+RANGE inPlacePartition(int *L, int l, int r, int k)
+{
+	RANGE R;
+	int i,j; //피벗보다 큰거 분류위한 변수
+	int temp; //교환 위한 변수
+	int p; //피벗
+	int cur,n; //피벗과 같은값 분류위한 변수
+
+	i = l; j = r-1;
+
+	p = L[k];
+
+	temp=L[k];
+	L[k]=L[r];
+	L[r]=temp;
+
+	//피벗보다 큰것을 오른쪽으로 분류
+	while(i <= j)
+	{
+		while(i <= j && L[i] <= p)
+			i++;
+
+		while(i <= j && L[j] > p)
+			j--;
+
+		if(i < j)
+		{
+			temp = L[i];
+			L[i] = L[j];
+			L[j] = temp;
+		}
+	}
+
+	temp=L[i];
+	L[i]=L[r];
+	L[r]=temp;
+
+	n=l;
+	cur=j;
+
+	// 피벗과 같은 값을 중간으로 모으기
+	while(n<cur)
+	{
+		while(L[cur] == p && n<cur)
+			cur--;
+
+		if(L[n] == p && n<cur)
+		{
+			temp=L[n];
+			L[n]=L[cur];
+			L[cur]=temp;
+			cur--;
+		}
+		n++;
+	}
+
+	R.left = n+1;
+	R.right = i;
+
+	return R;
+}

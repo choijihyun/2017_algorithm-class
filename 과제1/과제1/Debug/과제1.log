@@ -1,0 +1,4 @@
+﻿  1다시.c
+c:\users\user\desktop\알고리즘\과제1\과제1\1다시.c(66): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  과제1.vcxproj -> C:\Users\USER\Desktop\알고리즘\과제1\Debug\과제1.exe
+  과제1.vcxproj -> C:\Users\USER\Desktop\알고리즘\과제1\Debug\과제1.pdb (Partial PDB)

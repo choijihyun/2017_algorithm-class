@@ -1,0 +1,4 @@
+﻿  2.c
+c:\users\user\desktop\알고리즘\13주차 실습\13주차 실습\2.c(280): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  13주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\13주차 실습\Debug\13주차 실습.exe
+  13주차 실습.vcxproj -> C:\Users\USER\Desktop\알고리즘\13주차 실습\Debug\13주차 실습.pdb (Partial PDB)
